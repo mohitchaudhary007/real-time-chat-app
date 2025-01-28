@@ -17,21 +17,6 @@ This is a real-time chat application built using the MERN stack (MongoDB, Expres
 - **Database**: MongoDB (Cloud-hosted via MongoDB Atlas)
 - **Real-Time Communication**: Socket.io
 
-
-### Prerequisites
-
-- Node.js and npm installed on your machine.
-- MongoDB Compass (or a local MongoDB setup).
-
-### Backend Setup
-
-### Running the Application
-
-- Backend: Runs on `http://localhost:5000`
-- Frontend: Runs on `http://localhost:3000`
-
-
-
 ## Screenshots
 
 ![image_alt](https://github.com/mohitchaudhary007/real-time-chat-app/blob/main/image/1.png?raw=true)
