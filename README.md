@@ -24,3 +24,7 @@ This is a real-time chat application built using the MERN stack (MongoDB, Expres
 ![image_alt](https://github.com/mohitchaudhary007/real-time-chat-app/blob/main/image/3.png?raw=true)
 
 ![image_alt](https://github.com/mohitchaudhary007/real-time-chat-app/blob/main/image/2.png?raw=true)
+
+![image_alt](https://github.com/mohitchaudhary007/real-time-chat-app/blob/main/image/4.png?raw=true)
+
+![image_alt](https://github.com/mohitchaudhary007/real-time-chat-app/blob/main/image/5.png?raw=true)
